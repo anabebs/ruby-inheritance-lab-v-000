@@ -9,3 +9,5 @@ class Student < User
     knowledge << string
   end
 end
+
+end
